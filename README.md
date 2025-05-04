@@ -68,7 +68,7 @@ Crafted to empower students, job seekers, and professionals with guided resume g
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manohar-k-Reddy&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manohar-k-Reddy&show_icons=true&theme=radical&rank_icon=github" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manohar-k-Reddy&theme=radical" height="150" />
 </p>
 
