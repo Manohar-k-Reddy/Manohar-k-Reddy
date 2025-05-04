@@ -58,6 +58,10 @@ Crafted to empower students, job seekers, and professionals with guided resume g
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=azure&logoColor=white&style=for-the-badge)
+
+
+
 
 ---
 
