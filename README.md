@@ -64,10 +64,14 @@ Crafted to empower students, job seekers, and professionals with guided resume g
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manohar-k-Reddy&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manohar-k-Reddy&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manohar-k-Reddy&theme=radical" height="150" />
 </p>
 
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohar-k-Reddy&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>  
 ---
 
 ### 🌍 Vision
@@ -81,6 +85,9 @@ Crafted to empower students, job seekers, and professionals with guided resume g
  
 - 🔗 [LinkedIn](https://linkedin.com/in/manohark0909)  
 - 🐙 [GitHub](https://github.com/Manohar-k-Reddy)
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=Manohar-k-Reddy&style=flat-square&color=blue)
 
 ---
 
