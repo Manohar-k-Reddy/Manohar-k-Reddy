@@ -19,8 +19,8 @@ I believe that **code is not just a tool, it’s a superpower**—one that can b
 A cybersecurity news aggregator tailored for Indian threats. Built with **Flask**, **TailwindCSS**, and **BeautifulSoup**.  
 🛡️ Showcased at the **Green Tech Hackathon** by Garden City University.
 
-🤖 **[QuizAutomationBot](https://github.com/manohar1404/QuizAutomationBot)**  
-An intelligent automation bot for online assessments. Built using **Python**, **Selenium**, and **Groq AI**.  
+🤖 **[QuizAutomationBot](https://github.com/manohar-k-reddy/QuizAutomationBot)**  
+An intelligent automation bot for online assessments. Built using **Python**, **Selenium**.  
 Smartly analyzes and submits quizzes in real time—speed meets efficiency! (Repo is private)
 
 🌐 **[stpiusxchurchblr.in](https://www.stpiusxchurchblr.in/)**  
